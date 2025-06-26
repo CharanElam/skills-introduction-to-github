@@ -9,10 +9,9 @@ assignees: ''
 ---
 
 ## ✅ First Round Review (Markdown Format)
-- [ ] Question has an ID 'CC.QQ.NNN'
-- [ ] Valid question type
-- [ ] Valid topic
-- [ ] Tags separated by comma
-- [ ] Question
-- [ ] Verify question clarity
-- [ ] Verify the answers
+- [ ] Does the question have a unique ID?
+- [ ] Is the question type valid?
+- [ ] Is the topic valid?
+- [ ] Are the tags separated by a comma?
+- [ ] Is the question clear and concise?
+- [ ] Are the answers clear and concise?
