@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ## Second Round Review (PL)
-- [ ] Question renders
-- [ ] Answers render
-- [ ] Grading functions as expected
-- [ ] Incorrect answers receive feedback
-- [ ] Randomization
+- [ ] Does the question render in PL webpage?
+- [ ] Do the answers render in PL webpage?
+- [ ] Does the grading work as expected?
+- [ ] Do incorrect answers receive appropriate feedback?
+- [ ] Does regenerating the question give randomized values?
