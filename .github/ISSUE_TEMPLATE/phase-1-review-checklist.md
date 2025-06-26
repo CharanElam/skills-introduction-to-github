@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-## ✅ First Round Review (Markdown Format)
+## First Round Review (Markdown Format)
 - [ ] Does the question have a unique ID?
 - [ ] Is the question type valid?
 - [ ] Is the topic valid?
